@@ -1,0 +1,82 @@
+
+
+
+Changes done in SERVER
+
+
+    5  [200~sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/jammy/winehq-jammy.sources~
+    6  sudo wget
+    7  sudo wget -np
+    8  sudo wget -np /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/jammy/winehq-jammy.sources
+    9  sudo apt install --install-recommends winehq-stable
+   10  sudo dpkg --add-architecture i386
+   11  wget -O - https://dl.winehq.org/wine-builds/winehq.key | sudo apt-key add -
+   12  sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ focal main'
+   13  sudo apt update
+   14  sudo apt install --install-recommends winehq-stable
+   21  sudo apt 200~ScreenCaptureStudio~
+   39  sudo apt-get install build-essential procps curl file git
+   50  sudo apt-get update
+   51  sudo apt-get upgrade slack-desktop
+   59  sudo ./aws/install
+   63  200~sudo ./aws/install
+   64  sudo ./aws/install
+   70  sudo ./aws/install --bin-dir /usr/local/bin --install-dir /usr/local/aws-cli --update
+  164  sudo adduser admin
+  169  sudo devopsgroup
+  170  sudo addgroup devopsgroup
+  231  sudo adduser kumar
+  244  sudo apt search  open
+  245  sudo apt search  openjdk
+  247  sudo apt install openjdk-11-jre-headless
+  251  sudo apt remove openjdk-11-jre-headless
+  254  sudo apt-get install openjdk-11-jre-headless
+  256  sudo apt-get remove openjdk-11-jre-headless
+  259  sudo apt update
+  267  sudo apt search openjd
+  269  sudo apt install openjdk-11-jre-headless
+  270  sudo apt remove openjdk-11-jre-headless
+  274  sudo apt-get install openjdk-11-jre-headless 
+  278  sudo apt-get remove openjdk-11-jre-headless 
+  279  sudo apt update
+  286  sudo apt vim
+  287  sudo apt install vim
+  298  sudo apt install slack
+  319  sudo adduser tom
+  322  sudo passwd tom
+  324  sudo useradd -G devops nicole
+  327  sudo gpasswd -d nicole devops
+  336  sudo chown tom:admin test.txt
+  339  sudo chown admin test.txt
+  341  sudo chgrp devops test.txt
+  343  sudo chmod -x aws
+  345  sudo chmod g -w confitest.txt
+  346  sudo chmod g-w confitest.txt
+  347  sudo chmod g-w test.txt
+  349  sudo chmod g+x test.txt
+  351  sudo chmod g-x test.txt
+  365  sudo groupadd devops
+  367  sudo usemod -g devops tom
+  368  sudo usermod -g devops tom
+  370  sudo delgroup tom
+  503  sudo wget -np /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/jammy/winehq-jammy.sources
+  550  sudo adduser
+  552  sudo removeuser tom
+  553  sudo deluser tom
+  555  sudo deluser tom
+  625  history | sudo
+  628  history | grep sudo
+  629  history | grep "sudo deluser"
+  630  history | grep "sudo deluser" | tom
+  631  history | grep sudo
+  632  history | grep sudo | apt
+  633  history | grep sudo | head
+  634  history | grep sudo | 10
+  635  history | grep sudo | less
+  636  history | grep sudo | less-10
+  637  history | grep sudo | less -10
+  688  history | grep sudo > sudo-commands.txt
+
+
+
+  Changes done here
